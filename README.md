@@ -1,0 +1,5 @@
+- Hi! I'm Snooty.
+- I’m interested in Game Developement and Game Design.
+- I’m currently learning C# and Python Programming as well as Networking in Unity.
+- I'm currently working on a Third Person Multiplayer Shooter
+- Reach me at Schnozzlesnout@gmail.com
